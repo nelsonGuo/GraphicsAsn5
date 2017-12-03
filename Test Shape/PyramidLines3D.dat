@@ -1,0 +1,14 @@
+0 1
+1 2
+2 3
+3 0
+4 0
+4 1
+4 2
+4 3
+-1
+Lines data for block uppercase Q.
+Example for COMP 4560, Assignment 5 (200810)
+Indicates which points must be joined by lines to form
+     the character.
+Goes with accompanying points.dat file.
